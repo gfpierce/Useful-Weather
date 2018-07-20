@@ -12,4 +12,4 @@ Instead of just "it's 68 and sunny," we'll tell you something like "it's nice ou
 Is it going to rain in the afternoon?
 Instead of "chance of rain at 3pm," you'll see "it might rain in the afternoon. Keep a rain jacket or umbrella close by if you have to head out."
 
-The goal of Useful Weather is to make our online weather services talk about weather in the same way that we would. We'll collect the necessary data and do the thinking for you, making it easier for you to go about your day.
+The goal of Useful Weather is to make our online weather services talk about weather in the same way that we would. We'll collect the necessary data and do the thinking for you, making it easier for you to go about your day. We aim to distill the day's weather forecast into a concise description in natural language.
