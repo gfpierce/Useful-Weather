@@ -4,3 +4,6 @@ Dark Sky API Key: d74791e6e3fb29b5253a4fe7e0aafb38
 
 CSS:
 Learn CSS Grid and implement in this project.
+
+Properly requests from API, but encounters this error: 
+No 'Access-Control-Allow-Origin' header is present on the requested resource. Origin 'null' is therefore not allowed access.
