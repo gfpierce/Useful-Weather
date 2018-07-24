@@ -1,5 +1,5 @@
 # Useful-Weather
-A weather website that helps you make decisions about your life.
+A weather website that talks about weather like we do.
 
 You know how you look at weather and just see a whole bunch of numbers?
 Sure, you know roughly what 60 degrees feels like, what 90% humidity feels like, and what rain is, but what does it mean for your day?
