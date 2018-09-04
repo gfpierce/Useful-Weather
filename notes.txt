@@ -1,4 +1,5 @@
-Zip Code API: https://www.zipcodeapi.com/API
+Zip Code API: https://smartystreets.com/docs/cloud/us-zipcode-api
+Zip Code API Key: 160203563654804
 Dark Sky API: https://darksky.net/dev/docs
 Dark Sky API Key: d74791e6e3fb29b5253a4fe7e0aafb38
 
