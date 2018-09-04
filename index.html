@@ -2,26 +2,34 @@
 <html lang="en">
     <meta name=viewport content="width=device-width", initial-scale="1">
     <head>
-        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+        <link href="https://fonts.googleapis.com/css?family=Roboto" rel="stylesheet" type="text/css">
+        <link href="resources/css/style.css" rel="stylesheet" type="text/css">
     </head>
-    <title>Useful Weather - Weather that helps you do stuff!</title>
+    <title>Useful Weather</title>
     <body>
         <header>
-            <div class="hero-box">
-                <h2>Useful Weather</h2>
-                <h2>Weather that helps you do stuff!</h2>
-                <!--<h2>
-                    <a href="https://darksky.net/poweredby/">Powered by Dark Sky</a>
-                </h2>-->
+            <div class="sidebar">
+                    <p id="title">Useful Weather</p>
+                    <div class="line"><p id="date"></p></div>
+                    <p id="zip"></p>
+                    <p id="temp"></p>
             </div>
         </header>
         <main>
+            <div class="graphic">
+                <img src="resources/img/The New South.png">
+            </div>
+        </main>
+        <script src="resources/js/script.js"></script>
+        <script src='resources/js/APIwork.js'></script>
+    </body>
+</html>
+
+                <!--<h2>
+                    <a href="https://darksky.net/poweredby/">Powered by Dark Sky</a>
+                </h2>-->
             <!--<form id="location-frm">
                 Where are you located? (Please input your 5-digit Zip Code) 
                 <input type="text" id="location">
                 <input type="button" onclick="zip()" value="Submit">
             </form>-->
-        </main>
-        <script src="resources/js/script.js"></script>
-    </body>
-</html>

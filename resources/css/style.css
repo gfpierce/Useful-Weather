@@ -1,0 +1,65 @@
+/* ------------------------------------- */
+/* Basic Setup */
+/* ------------------------------------- */
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+html {
+    background-color: #eee;
+    font-family: "Roboto", sans-serif;
+    font-size: 25px;
+    font-weight: 700;
+}
+
+.sidebar {
+    height: 100%;
+    width: 20%;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    padding-top: 15px;
+}
+
+#title {
+    padding: 5px 20px;
+}
+
+#date {
+    font-size: 80%;
+    border-bottom: solid;
+    padding-bottom: 5px;
+}
+
+.line {
+    padding: 5px 20px 0px 20px;
+    margin-top: 40px;
+}
+
+#zip {
+    padding: 5px 20px;
+    font-size: 140%;
+
+}
+
+#temp {
+    margin-top: 50px;
+    padding-left: 20px;
+    padding-right: 20px;
+    font-size: 300%;
+}
+
+main{
+    margin-left: 20%;
+    height: auto;
+    width: auto;
+}
+
+.graphic {
+    background-image: #555;
+    width: auto;
+}
